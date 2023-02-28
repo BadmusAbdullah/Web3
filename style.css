@@ -443,7 +443,7 @@ input {
 	margin-bottom: 0.8rem;
 	color: rgba(255, 255, 255, 0.5);
 }
-@media (max-width: 360px) {
+@media (max-width: 760px) {
 	.nav_bar .logo {
 		margin: 0 0;
 	}
